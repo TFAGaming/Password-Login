@@ -9,6 +9,7 @@ int attemptsChecker(int attempts, int max) {
 }
 
 int main() {
+    // The password:
     const string password = "abc123";
 
     string input = "";
